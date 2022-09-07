@@ -1,3 +1,9 @@
+# Setup
+npm install 
+create `.env` file 
+add `REACT_APP_UNSPLASH_CLIENT_ID= YOUR_UNSPLACH_CLIENT_ID` in `.env` file.
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
