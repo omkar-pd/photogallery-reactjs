@@ -1,8 +1,9 @@
 # Setup
-npm install 
-create `.env` file 
-add `REACT_APP_UNSPLASH_CLIENT_ID= YOUR_UNSPLACH_CLIENT_ID` in `.env` file.
+- npm install 
+- create `.env` file 
+- add `REACT_APP_UNSPLASH_CLIENT_ID= YOUR_UNSPLACH_CLIENT_ID` in `.env` file.
 npm start
+- get you unsplash client id here:- https://unsplash.com/developers
 
 # Getting Started with Create React App
 
