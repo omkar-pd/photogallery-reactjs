@@ -20,6 +20,7 @@ export const PhotoGallery = () => {
 
   useEffect(() => {
     fetchImagesonLoad();
+    // eslint-disable-next-line
   }, []);
 
   useEffect(() => {
@@ -28,6 +29,7 @@ export const PhotoGallery = () => {
     } else {
       isMounted.current = true;
     }
+    // eslint-disable-next-line
   }, [query]);
 
   const fetchImagesonLoad = async () => {
